@@ -1,6 +1,6 @@
 package com.cafe;
 
-public abstract class Coffee implements Drink {
+public abstract class Coffee {
 
     protected String typeOfCoffee;
     protected int volume;
@@ -21,11 +21,6 @@ public abstract class Coffee implements Drink {
 
     public String getName() {
         return name;
-    }
-
-    @Override
-    public void message() {
-        System.out.println("I`m " + name);
     }
 
     @Override
