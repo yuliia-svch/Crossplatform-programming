@@ -1,0 +1,2 @@
+1,Bandery 64,1
+2,Vyhovskoho 32,2 3

@@ -1,0 +1,4 @@
+Margarita 350 50.50 sauce,cheese,greens
+Hawaian 300 75.90 pineapple,cheese,chicken,sauce
+Hunter 400 80.00 sausage,cheese,sauce
+QuattroFormaggi 300 60.25 parmesan,mocarella,gorgonsola,fontina
